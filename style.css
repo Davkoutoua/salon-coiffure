@@ -11,8 +11,8 @@
   
 /* Variables CSS */ 
 :root { 
-  --couleur-principale: #2C1810;  /* marron cafe */ 
-  --couleur-secondaire: #D4A853; /* dore */ 
+  --couleur-principale: #2418a6;  /* marron cafe */ 
+  --couleur-secondaire: #ccd544; /* dore */ 
   --couleur-fond: #FAF7F0;       /* creme */ 
   --couleur-texte: #3D2B1F;      /* marron fonce */ 
   --police: 'Georgia', serif; 
